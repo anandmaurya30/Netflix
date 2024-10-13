@@ -1,0 +1,377 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+.main{
+    background: url(net/ffirst.img.png);
+    width: 100%;
+    height: 95vh;
+    
+}
+.top{
+    display: flex;
+    /* position: relative;
+    z-index: (10); */
+}
+.logo img{
+    height: 67%;
+    width: 20%;
+    margin-left: 140px;
+}
+
+
+
+.but button{
+    display: inline;
+    margin-left: 40px;
+}
+.English{
+    background-color: #38383821;
+    color: white;
+    height: 30px;
+    width: 106px;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+.Sign{
+    background-color: #df0202;
+    color: white;
+    height: 32px;
+    width: 74px;
+    border-radius: 8px;
+}
+
+.p1{
+    /* background-color: black; */
+    justify-content: center;
+    display: flex;
+    color: white;
+    letter-spacing: 2px;
+    font-family: fantasy;
+    /* z-index: 10; */
+    font-size: 55px;
+    /* font-weight: bold; */
+    margin-top: 178px;
+}
+.p2{
+    /* background-color: black; */
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-top: 18px;
+}
+.p3{
+    /* background-color: black; */
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: 23px;
+    margin-top: 19px;
+}
+.last{
+display: flex;
+justify-content: center;
+height: 35px;
+margin-top: 25px;
+}
+.mail{
+    background-color: #202020cc;
+    color: white;
+    width: 340px;
+    padding: 20px;
+    height: 5px;
+    margin-right: 14px;
+}
+.get{
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    width: 166px;
+    height: 50px;
+    font-weight: bold;
+}
+.but{
+    margin-left: 220px;
+    margin-top: 34px;
+}
+.line{
+    background-color: #2b2b2b;
+    height: 1vh;
+}
+.second{
+    background-color: black;
+    height: 80vh;
+    position: relative;
+
+}
+.tv img{
+    float: right;
+    margin: 0px 151px 0px 0px;
+    position: relative;
+    z-index: 10;
+}
+.tvv video{
+    float: right;
+    margin: 99px -559px 0px 0px;
+}
+.p4
+{
+    color: white;
+    font-size: 55px;
+    /* font-weight: bold; */
+    /* margin-top: 105px; */
+    font-family: system-ui;
+    position: absolute;
+    margin: 191px 0px 0px 208px;
+    font-weight: bolder;
+}
+.p5{
+    color: white;
+    font-size: 24px;
+    /* font-weight: bold; */
+    /* margin-top: 105px; */
+    font-family: system-ui;
+    position: absolute;
+    margin: 290px 0px 0px 208px; 
+}
+.third{
+    background-color: black;
+    height: 80vh;
+}
+.mob img{
+    margin: 83px 0px 0px 169px;
+}
+.dex{
+    position: relative;
+    z-index: 10;
+    /* float: right; */
+    background-color: black;
+    height: 105px;
+    width: 368px;
+    margin: -151px 0px 0px 306px;
+    border: 1.5px solid white;
+    border-radius: 10px;
+}
+.lef img{
+    height: 12vh;
+    margin: 7px 0px 0px 14px;
+}
+.str{
+    margin: -64px 0px 0px 101px;
+    font-family: system-ui;
+}
+.stra{
+    margin: 3px 0px 0px 100px;
+    color: blue;
+}
+.down img{
+    margin: -72px 0px 0px 285px;
+    height: 10vh;
+}
+.p6{
+    color: white;
+    font-size: 52px;
+    /* font-weight: bold; */
+    /* margin-top: 105px; */
+    font-family: system-ui;
+    position: absolute;
+    margin: -390px 0px 0px 750px;
+    font-weight: bolder;
+}
+.p7{
+    color: white;
+    font-size: 22px;
+    /* font-weight: bold; */
+    /* margin-top: 105px; */
+    font-family: system-ui;
+    position: absolute;
+    margin: -224px 0px 0px 758px;
+}
+.fourth{
+    background-color: black;
+    height: 80vh;
+}
+.p8{
+    color: white;
+    font-size: 50px;
+    /* font-weight: bold; */
+    /* margin-top: 105px; */
+    font-family: system-ui;
+    position: absolute;
+    margin: 169px 0px 0px 178px;
+    font-weight: bolder;
+}
+.p9{
+    color: white;
+    font-size: 23px;
+    /* font-weight: bold; */
+    /* margin-top: 105px; */
+    font-family: system-ui;
+    position: absolute;
+    margin: 250px 0px 0px 185px;
+}
+.devices img{
+    float: right;
+    margin: 45px 204px 0px 0px;
+    position: relative;
+    z-index: 10;
+}
+.ddvices video{
+    float: right;
+    margin: 77px -515px 0px 0px;
+    width: 390px;
+}
+.fifth{
+    background-color: black;
+    height: 75vh;  
+}
+.p10{
+    color: white;
+    font-size: 50px;
+    /* font-weight: bold; */
+    /* margin-top: 105px; */
+    font-family: system-ui;
+    position: absolute;
+    margin: 185px 0px 0px 760px;
+    font-weight: bolder;
+}
+.p11{
+    color: white;
+    font-size: 23px;
+    /* font-weight: bold; */
+    /* margin-top: 105px; */
+    font-family: system-ui;
+    position: absolute;
+    margin: 269px 0px 0px 764px
+}
+.cartoon img{
+    margin: 25px 0px 0px 120px;
+}
+.sixth{
+    background-color: black;
+    height: 130vh;  
+}
+.las{
+    padding: 64px;
+}
+.Freq{
+    display: flex;
+    justify-content: center;
+    font-family: system-ui;
+    font-size: 50px;
+}
+.box{
+    background-color: #353535e6;
+    width: 77vw;
+    height: 11vh;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.inbox{
+    list-style: none;
+    display: flex;
+}
+.left{
+    float: left;
+    /* margin-top: auto; */
+    padding: 20px;
+    font-size: 24px;
+    font-family: system-ui;
+
+}
+.rig1{
+    float: right;
+    /* margin-top: auto; */
+    margin-left: 895px;
+    /* padding: 4px; */
+    font-size: 65px;
+}
+.rig2{
+    float: right;
+    /* margin-top: auto; */
+    margin-left: 753px;
+    /* padding: 4px; */
+    font-size: 65px;
+}
+.rig3{
+    float: right;
+    /* margin-top: auto; */
+    margin-left: 852px;
+    /* padding: 4px; */
+    font-size: 65px;
+}.rig4{
+    float: right;
+    /* margin-top: auto; */
+    margin-left: 882px;
+    /* padding: 4px; */
+    font-size: 65px;  
+}.rig5{
+    float: right;
+    /* margin-top: auto; */
+    margin-left: 759px;
+    /* padding: 4px; */
+    font-size: 65px;
+}.rig6{
+    float: right;
+    /* margin-top: auto; */
+    margin-left: 810px;
+    /* padding: 4px; */
+    font-size: 65px;  
+}
+.p12{
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+    font-family: system-ui;
+    margin-top: 24px;
+}
+.seventh{
+        background-color: black;
+    height: 60vh;
+
+}
+.endb1{
+    float: left;
+    width: 22%;
+    color: #bababa;
+    font-family: system-ui;
+    margin: 117px -49px 0px 210px;
+}
+.endb2{
+   float: left;
+   width: 22%;
+   text-decoration: underline 1px ;
+   color: #bababa;
+    font-family: system-ui;
+    margin-top: 135px;
+}
+.endb3{
+   float: right;
+   width: 22%;
+   margin: 132px 0px 0px 0px;;
+   text-decoration: underline 1px ;
+   color: #bababa;
+    font-family: system-ui;
+}
+.endb4{
+ float: right;
+ width: 22%;
+ margin: 131px 20px 0px 0px;
+ text-decoration: underline 1px;
+ color: #bababa;
+    font-family: system-ui;
+}    
+li{
+    list-style: none;
+    margin-top: 15px;
+}
+.l{
+    text-decoration: underline 1px;  
+}
